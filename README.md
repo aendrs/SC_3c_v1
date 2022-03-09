@@ -3,12 +3,11 @@
 
 Source code for the paper:
 
-A Deep Neural Netork model of the Superior Colliculus in emotion recognition.
+**A Deep Neural Netork model of the Superior Colliculus in emotion recognition.**
 
 Carlos Andrés Méndez, Alessia Celeghin, Matteo Diano, Marco Tamietto
 University of Turin, Italy
 
-Feb 2022
 ===============================================================================
 
 Files:
