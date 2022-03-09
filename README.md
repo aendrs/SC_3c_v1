@@ -1,5 +1,5 @@
 
-===============================================================================
+---
 
 Source code for the paper:
 
@@ -9,8 +9,7 @@ Source code for the paper:
 
 University of Turin, Italy
 
-===============================================================================
-
+---
 *Files:*
 
 Main_Model.py = Principal script of the model, needs Tensorflow 1.13 and Keras 2.22
