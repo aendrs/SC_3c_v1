@@ -10,7 +10,7 @@ Source code for the paper:
 University of Turin, Italy
 
 
-Méndez, Carlos Andrés, Alessia Celeghin, Matteo Diano, Davide Orsenigo, Brian Ocak, and Marco Tamietto. 
+> Méndez, Carlos Andrés, Alessia Celeghin, Matteo Diano, Davide Orsenigo, Brian Ocak, and Marco Tamietto. 
 "A deep neural network model of the primate superior colliculus for emotion recognition." 
 Philosophical Transactions of the Royal Society B 377, no. 1863 (2022): 20210512.
 
